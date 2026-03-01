@@ -22,10 +22,6 @@
 ---
 
 ## 📊 İstatistikler
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ihsnishnogl&theme=apprentice&show_icons=true&hide_border=false" width="48%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsnishnogl&theme=apprentice&layout=compact&hide_border=false" width="48%" />
-</p>
 
 <br/><br/><br/><br/><br/><br/><br/>
 
