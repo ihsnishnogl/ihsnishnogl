@@ -1,70 +1,65 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Hİ,%20I'M%20İHSAN!%20%20👋&fontSize=70&bgGradient=true&bgAnimate=true" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=İHSAN%20//%20SYSTEM%20CORE&fontSize=70&bgGradient=true&bgAnimate=true" />
 </div>
 
 ---
 
-# 💫 About Me:
-
-x
-
+## ⚡ Operational Status
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=45A1FF&width=550&lines=Game+Developer+%26+Discord+Bot+Creator;Focusing+on+Interactive+Experiences;Learning+Rust+and+Kotlin;Chess+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D1FF&width=600&lines=CORE+MODULE:+Software+Development+Student;PRIMARY+FOCUS:+Game+Development;ACTIVE+DRIVE:+Nivra+Discord+Bot;LOGIC+ENGINE:+C%23,+Rust,+Python" alt="Typing SVG" />
 </p>
 
-
+> **Location:** Istanbul, TR | **Level:** 11th Grade Software Student | **Status:** Building...
 
 ---
 
-# 💻 Tech Stack & Interests:
-
+## 🛠️ Tech Stack & Focus Radar
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cs,unreal,rust,kotlin,py,js,nodejs,php,java,firebase,azure,mongodb,mysql,cloudflare,ps,ai,pr,ae,github" />
 </div>
 
+<br/>
+
+| **Focus Area** | **Development Pipeline** |
+| :--- | :--- |
+| 🛡️ **Backend & Architecture** | `PLAN` → `CODE` → `REVIEW` → `DEPLOY` |
+| 🎮 **Game Design** | `CONCEPT` → `BUILD` → `TEST` → `RELEASE` |
+| 🤖 **Bot Automation** | `LOGIC` → `DATABASE` → `WEBHOOK` → `LIVE` |
+
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=60&section=subHeader&text=O%20P%20E%20R%20A%20T%20I%20O%20N%20A%20L%20%20D%20A%20T%20A&fontSize=30&bgGradient=true" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00D1FF&height=40&section=subHeader&text=D%20A%20T%20A%20%20%20V%20I%20S%20U%20A%20L%20I%20Z%20A%20T%20I%20O%20N&fontSize=20" />
 </div>
 
-# 📊 System Metrics:
-
+## 📊 System Performance Metrics
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ihsnishnogl&theme=apprentice&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00B4F3&icon_color=00B4F3" width="48%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsnishnogl&theme=apprentice&layout=compact&hide_border=true&bg_color=0D1117&title_color=00B4F3&icon_color=00B4F3" width="48%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ihsnishnogl&theme=apprentice&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D1FF&icon_color=00D1FF" width="48%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsnishnogl&theme=apprentice&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00D1FF" width="48%" />
 </p>
 
 <br/><br/><br/><br/><br/><br/><br/>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=60&section=subHeader&text=D%20E%20V%20E%20L%20O%20P%20M%20E%20N%20T%20%20A%20C%20T%20I%20V%20I%20T%20Y&fontSize=30&bgGradient=true" />
-</div>
-
-# 📈 Pulse Grid:
-
+## 📈 Activity Pulse (Grid Mode)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihsnishnogl&theme=github-compact&bg_color=0D1117&title_color=00B4F3&color=00B4F3" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihsnishnogl&theme=github-compact&bg_color=0D1117&title_color=00D1FF&color=00D1FF" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihsnishnogl&theme=apprentice&hide_border=true&background=0D1117&title_color=00B4F3&side_icon=00B4F3&side_text=00B4F3" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihsnishnogl&theme=apprentice&hide_border=true&background=0D1117&title_color=00D1FF&side_icon=00D1FF&side_text=00D1FF" width="100%" />
 </p>
 
 ---
 
-# 📬 Let's Connect:
-
+## 🔗 Network Connections
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_DISCORD_SERVER_INVITE_LINK" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://noxengames.com" target="_blank"><img src="https://img.shields.io/badge/Website-NoxenStudio-00D1FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="discord_invite_link"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
----
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ihsnishnogl&color=blue&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=ihsnishnogl&color=00D1FF&style=flat-square&label=TERMINAL+ACCESS+COUNT" />
 </div>
