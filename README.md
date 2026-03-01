@@ -21,6 +21,20 @@
 
 ---
 
+## 📊 İstatistikler
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ihsnishnogl&theme=apprentice&show_icons=true&hide_border=false" width="48%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsnishnogl&theme=apprentice&layout=compact&hide_border=false" width="48%" />
+</p>
+
+<br/><br/><br/><br/><br/><br/><br/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihsnishnogl&theme=apprentice&hide_border=false" width="100%" />
+</p>
+
+---
+
 ## 🔗 İletişim
 <p align="left">
   <a href="https://noxengames.com" target="_blank"><img src="https://img.shields.io/badge/Web_Sitesi-NoxenStudio-00D1FF?style=flat-square&logo=googlechrome&logoColor=white" /></a>
