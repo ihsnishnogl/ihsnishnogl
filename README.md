@@ -32,13 +32,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00D1FF&height=40&section=subHeader&text=D%20A%20T%20A%20%20%20V%20I%20S%20U%20A%20L%20I%20Z%20A%20T%20I%20O%20N&fontSize=20" />
 </div>
 
-## 📊 System Performance Metrics
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ihsnishnogl&theme=apprentice&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D1FF&icon_color=00D1FF" width="48%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsnishnogl&theme=apprentice&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00D1FF" width="48%" />
-</p>
-
-<br/><br/><br/><br/><br/><br/><br/>
 
 ---
 
