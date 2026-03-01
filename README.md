@@ -6,16 +6,13 @@
 
 # 💫 About Me:
 
-I'm a **11th-grade Software Development student** at Barbaros Hayrettin Paşa MTAL in Istanbul, passionate about engineering and game development.
+x
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=45A1FF&width=550&lines=Game+Developer+%26+Discord+Bot+Creator;Focusing+on+Interactive+Experiences;Learning+Rust+and+Kotlin;Chess+Enthusiast" alt="Typing SVG" />
 </p>
 
-- 🎮 **Focus:** Exploring the limits of Unity & Unreal Engine.
-- 🤖 **Projects:** Maintaining Nivra, a powerful utility bot.
-- 🧠 **Interests:** Applied Mathematics, Game Physics, and Machine Learning.
-- 🚀 **Goal:** Creating a cross-platform indie game and contributing to open source.
+
 
 ---
 
