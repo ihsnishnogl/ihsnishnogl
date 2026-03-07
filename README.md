@@ -5,7 +5,6 @@
 ---
 
 ## 👨‍💻 Hakkımda
-İstanbul'da yaşayan **11. sınıf yazılım öğrencisiyim.** Barbaros Hayrettin Paşa MTAL'de eğitim görüyorum. Oyun geliştirme, Discord botları ve yapay zeka ile ilgileniyorum.
 
 - 🎮 **Odak Noktam:** Unity ve Unreal Engine ile oyun mekanikleri geliştirmek.
 - 🤖 **Projeler:** Kendi geliştirdiğim **Nivra** Discord botu üzerinde çalışıyorum.
