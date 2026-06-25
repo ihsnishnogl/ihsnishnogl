@@ -1,10 +1,10 @@
 <div align="center">
 
-# ihsan.
+# ihsni.
 
-**game dev · systems programmer · creative technologist**
+**software engineer · systems programmer · creative technologist**
 
-*Building at **Nocvey Studio** — games, tools & interactive experiences*
+*Building at **Zeva Engineering** — software, tools & systems*
 
 </div>
 
